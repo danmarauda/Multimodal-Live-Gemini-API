@@ -1,4 +1,4 @@
-# Multimodal Live API - Web Console
+# Multimodal-Live-Gemini-API
 
 This repository provides a React-based starter app for using the **Multimodal Live API** via a websocket. The application includes features like audio streaming, user media recording (microphone, camera, or screen capture), and a unified log view to aid development.
 
@@ -9,4 +9,3 @@ This repository provides a React-based starter app for using the **Multimodal Li
 
    ```bash
    npm install && npm start
-# Multimodal-Live-Gemini-API
